@@ -6,6 +6,7 @@
 # 开发工具    : PyCharm
 
 # 模块化思想，从隔壁模块中导入类
+import pytest
 from class_practice.Tianshantonglao import TongLao
 
 # 构造Xuzhu类，继承自TongLao
